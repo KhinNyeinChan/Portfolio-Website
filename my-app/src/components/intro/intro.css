@@ -1,7 +1,7 @@
 .i{
     display: flex;
     height: 100vh;
-    background-color: rgba(95, 243, 146, 0.3);
+    /* background-color: rgba(95, 243, 146, 0.3); */
 }
 
 .i-left {
@@ -76,7 +76,7 @@
     top: 0;
     right: 0;
     position: absolute;
-    background-color: rgba(207, 238, 120, 0.53);
+    background-color: #4F8110;;
 }
 
 .i-img {
